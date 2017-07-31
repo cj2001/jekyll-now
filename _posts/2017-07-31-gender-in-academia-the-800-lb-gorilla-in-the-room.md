@@ -8,7 +8,7 @@ comments: true
 
 <img src="/images/femaleProfessor.jpeg" alt="femaleProfessor" style="width: 200px;"/>
 
-In case you are unfamiliar with the above image, this was an ad campaign run by [The Gap](https://www.insidehighered.com/news/2017/04/27/gap-ad-raises-eyebrows-among-academics-portrayal-tenure-track-fashion), trying to make us female professors look put together or something.  Needless to say, it has gotten a fair bit of attention from actual female professors.
+In case you are unfamiliar with the above image, this was an ad campaign run by [The Gap](https://www.insidehighered.com/news/2017/04/27/gap-ad-raises-eyebrows-among-academics-portrayal-tenure-track-fashion), trying to make us female professors look put together or something.  Needless to say, it has gotten a fair bit of attention from actual female professors.  Because, after all, we get respect based on how we look, right?
 
 It is very likely that this will not be the last post on this topic.  And as I posted earlier, I am not trying to represent every single woman on the tenure track in this blog.  All I can do is talk about my experiences.  So this will be the first of potentially several posts on this subject.
 
