@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Gender in Academia: The 800 lb. Gorilla in the room
-date:   2017-07-31
 comments: true
 ---
 
