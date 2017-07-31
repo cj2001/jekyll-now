@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gender in Academia: The 800 lb. Gorilla in the room
+title: Gender in Academia, The 800 lb. Gorilla in the room
 comments: true
 ---
 
