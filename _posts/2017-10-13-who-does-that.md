@@ -19,6 +19,7 @@ Yeah...who does do that?  I (or anyone who would do the same) must be really cra
 - And BTW...that means I can work from anywhere.  Home is where _I_ want it to be, not where I have to be for some job.  (_SPOILER ALERT: GET ME THE FUCK OUT OF THIS GODFORSAKEN TOWN!!! (coming soon to a new state near you)_)
 - I work from about 9 am to about 4:30 pm.  The end.
 - No really.  I don't work on weekends.  I don't work nights.  My company does not expect me to.  In fact, I was specifically told NOT to.  That was time for family and for recharging from the day.
+- I came to realize that I have a wonderful husband and great kid _because I actually get to see them and spend time with them without feeling guilty that I am not at work!_
 - I have not been required to travel for work since my orientation 2 months ago.  As an academic, I was on travel about 50% of the time and most of it was across country to give a 20 minute talk.
 - Ever heard of video telecons?  My new company has!  Because why waste all of that time and money giving a talk that could be done on the internet?
 - I am still producing things!  Granted, what I am producing is not a paper that I will fight with people for a year and a half just to get published only for no one to read.  No.  In two months at this company I wrote code that was just launched to 20+ million users.  I will call that "job satisfaction"(TM).
