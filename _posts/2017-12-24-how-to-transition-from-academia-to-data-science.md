@@ -9,9 +9,13 @@ comments: true
 
 ![](https://media-exp2.licdn.com/mpr/mpr/AAEAAQAAAAAAAAyEAAAAJDg1ZTIwZTk0LThiZDgtNDczOC1hMDMwLTRmMzc2YjA3NjdkNw.jpg)
 
+(Salty language warning: if you have not read my [ABOUT](https://cj2001.github.io/cj2001.github.io/about/) section yet, now might be a good time.)
+
 It has now been about 4 months since I quit my job as a tenure track professor at an R1 university to take a position as a data scientist in Silicon Valley.  I would be lying if I said the transition has been 100% smooth.  But even so, I am still deliriously happy that I managed to get out!  Despite the complete shock of many of my colleagues that I gave up the "dream job for life" (see some of my previous posts), I have also had several colleagues, primarily some of the my more junior friends, tell me that they are contemplating the same move but do not know how to start.  So I figured that was worth at least a blog post or two.
 
 First things first...my experiences are just my experiences.  YMMV on anything I post here.  Second, I can only write this from my perspective, which is that of someone with a PhD in nuclear engineering from the number 1 ranked graduate school in the field.  After getting my PhD, I went to work in the national lab system for a while and then in the federal government in reearch positions.  I returned to academia after spending 10 years outside it and then spent 5 years on the tenure track.  So my thoughts on this subject are for people who have spent some time in full-out academia and do not necessarily apply to people moving from graduate school or a postdoc position to data science.  The difference here is that coming out of those positions your career is essentially still a blank canvas whereas those who have spent time working as academics are going to have been programmed into certain ways of thinking and doing things.  Those of you straight out of school or postdoc should have a _much_ easier time with both finding a job as well as making the transition to the culture than those who have worked in academia for a little while.
+
+That being said, based on conversations I have had with some others who have contacted me who are wanting to move out of postdocs or research positions within the national labs or industry, I am pretty sure that at least some of what I have to say below will apply.  So read on.
 
 So with that caveat out of the way, here is a random assortment of observations and suggestions should you decide to make the move.
 
