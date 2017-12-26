@@ -9,7 +9,7 @@ comments: true
 
 ![](https://media-exp2.licdn.com/mpr/mpr/AAEAAQAAAAAAAAyEAAAAJDg1ZTIwZTk0LThiZDgtNDczOC1hMDMwLTRmMzc2YjA3NjdkNw.jpg)
 
-(Salty language warning: if you have not read my [ABOUT](https://cj2001.github.io/cj2001.github.io/about/) section yet, now might be a good time.)
+(Salty language warning: if you have not read my first post, [Hello, World](https://cj2001.github.io/cj2001.github.io/Hello-World/), now might be a good time.)
 
 It has now been about 4 months since I quit my job as a tenure track professor at an R1 university to take a position as a data scientist in Silicon Valley.  I would be lying if I said the transition has been 100% smooth.  But even so, I am still deliriously happy that I managed to get out!  Despite the complete shock of many of my colleagues that I gave up the "dream job for life" (see some of my previous posts), I have also had several colleagues, primarily some of the my more junior friends, tell me that they are contemplating the same move but do not know how to start.  So I figured that was worth at least a blog post or two.
 
