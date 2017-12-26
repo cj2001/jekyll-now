@@ -118,7 +118,13 @@ Again, your answer to these questions needs to be personal and it needs to be yo
 
 **5. Expect to have to apply to a LOT of different companies**
 
-Unlike most applicants, you are not yet a working data scientist.
+Unlike most applicants, you are not yet a working data scientist.  There are many employers who are not willing to take the chance on someone with a very different background from the norm of CS and statistics.  They do not understand that your skills are very applicable.  Moreover, your application is even more likely to get overlooked when you consider that most of the screening of applicants will be done by a recruiter who will not necessarily have the technical background to understand that your skills are relevant. 
+
+This should further motivate the fact that the cover letter is very important since it is the chance you have to explain why your skills translate to those of a data scientist in their company.  But even with all of that said, you should still expect to send out many, many applications that will go unanswered.  I know of people who have sent out upwards of 100 applications and received only a few calls.  
+
+If you want to work in this field, you cannot be detered by this.  Especially when applying for your first job as a data scientist, you will have a very non-traditional resume.  Consider this the other way around.  Suppose you are working as professor in physics and you are on the search committee who has received an application from a PhD in mechanical engineering.  It doesn't seem like a match, right?  This will be you too.  Once you can get a line or two under the Experience section of your resume that is a data science job, this problem will go down.  But for now, accept the fact that you will need to be persistent.
+
+That being said, not all future employers will overlook someone with your diverse skill set.  It might be best to seek out those companies and start there with your applications.  
 
 **6. You will be expected to show your chops at a technical interview**
 
