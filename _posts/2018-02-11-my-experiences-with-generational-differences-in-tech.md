@@ -5,7 +5,7 @@ date: 2018-02-09
 comments: true
 ---
 
-![](https://i.ytimg.com/vi/BIpREvWtl70/hqdefault.jpg =200)
+![](https://i.ytimg.com/vi/BIpREvWtl70/hqdefault.jpg)
 
 (The usual warnings about salty language apply to this, like all of my other blog postings.)
 
