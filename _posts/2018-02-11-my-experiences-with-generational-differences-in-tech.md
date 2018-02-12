@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Experiences with Generational Differences in Tech (and it's not what you think)
+title: My Experiences with Generational Differences in Tech
 date: 2018-02-09
 comments: true
 ---
