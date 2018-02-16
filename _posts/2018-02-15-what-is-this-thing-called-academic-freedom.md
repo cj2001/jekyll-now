@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Through the Looking Glass -- Starting in the Private Sector
+title: What is this Thing Called Academic Freedom?
 date: 2018-02-15
 comments: true
 ---
